@@ -12,6 +12,8 @@
 [Rr]elease/
 x64/
 build/
+out/
+*/out/
 [Bb]in/
 [Oo]bj/
 
@@ -154,3 +156,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
